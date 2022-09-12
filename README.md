@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mommaabbas
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on projects
 
 
